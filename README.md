@@ -1,7 +1,7 @@
 # hello-world
 ICEN430: Class Presentation
 
-![Green Clarity Banner](https://imgur.com/gallery/YRVEe)
+![I think we can all relate to this](https://assets.hongkiat.com/uploads/programming-jokes/joke-semi-colon.jpg)
 
 
 
